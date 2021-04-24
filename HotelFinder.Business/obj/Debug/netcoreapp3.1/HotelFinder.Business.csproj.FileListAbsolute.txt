@@ -1,0 +1,13 @@
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.deps.json
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.dll
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.pdb
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Entities.dll
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.csprojAssemblyReference.cache
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.AssemblyInfoInputs.cache
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.AssemblyInfo.cs
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.csproj.CopyComplete
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.dll
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.pdb
