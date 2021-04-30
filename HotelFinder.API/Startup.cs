@@ -41,6 +41,14 @@ namespace HotelFinder.API
                     };
                 });
             });
+
+            //apiye atýlan requestte cors hatasýný engeller
+            services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
+            {
+                builder.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader();
+            }));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -56,6 +64,8 @@ namespace HotelFinder.API
             app.UseOpenApi(); // for swagger
             app.UseSwaggerUi3(); //for swagger ui loclahost/swagger ile ui görülür
 
+            app.UseCors("MyPolicy"); //apiye atýlan requestte cors hatasýný engeller
+
             app.UseEndpoints(endpoints =>
             {
                 //endpoints.MapGet("/", async context =>
@@ -64,6 +74,7 @@ namespace HotelFinder.API
                 //});
                 endpoints.MapControllers(); //eklendi
             });
+           
         }
     }
 }

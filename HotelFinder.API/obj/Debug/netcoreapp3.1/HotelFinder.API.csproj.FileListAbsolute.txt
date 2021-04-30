@@ -127,6 +127,6 @@ C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder
 C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.API\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
 C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.API\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
 C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.API\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.API\bin\Debug\netcoreapp3.1\HotelFinder.API.xml
 C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.API\obj\Debug\netcoreapp3.1\HotelFinder.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.API\obj\Debug\netcoreapp3.1\HotelFinder.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Guest_F\Desktop\studies\youtube\kenan_yldrm_.netcore_webapi\HotelFinder\HotelFinder.API\bin\Debug\netcoreapp3.1\HotelFinder.API.xml
